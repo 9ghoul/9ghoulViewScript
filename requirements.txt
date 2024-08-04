@@ -1,0 +1,3 @@
+python 3.12.4 (3.12.4 is what i used) (https://www.python.org/).
+visual studio code (https://code.visualstudio.com/download).
+open your main web browser.
